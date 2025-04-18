@@ -76,6 +76,10 @@ Contributions are welcome! Please open an issue or submit a PR for any improveme
 ## 📜 **License**
 This project is licensed under the [MIT License](LICENSE).
 
+## 📧 Contact
+- ✉️ **Email**: [muhamedammar0900@gmail.com](mailto:muhamedammar0900@gmail.com)  
+- 🔗 **LinkedIn**: [Muhamad Ammar](https://www.linkedin.com/in/muhamad-ammar-18b427306)
+
 ---
 
 **🎮 Happy Gaming!** For any issues, please open a ticket in the project repository.
