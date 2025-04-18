@@ -1,4 +1,4 @@
-# 🎮 **Falling Shapes Game** - Professional README
+# 🎮 **Falling Shapes Game**  
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![Game](https://img.shields.io/badge/Genre-Arcade-green)
